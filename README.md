@@ -1,9 +1,5 @@
 [🇫🇷 Français](#français) | [🇬🇧 English](#english)
 
----
-
-# Français
-
 ## Pierre Fortin — Anara
 
 Je suis Recruteur & Sourceur. Pas développeur.
