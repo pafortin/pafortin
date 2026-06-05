@@ -28,7 +28,7 @@ Les outils que je construis naissent de ce questionnement. Ils ne répondent pas
 
 ### Open sourcing
 
-Je co-anime **OpenSourcer** — un meetup où le sourcing se partage sans jargon ni barrière. L'idée : que les pratiques qui fonctionnent circulent, plutôt que de rester dans les mains de ceux qui peuvent se payer les formations.
+J'anime **OpenSourcer** — un meetup où le sourcing se partage sans jargon ni barrière. L'idée : que les pratiques qui fonctionnent circulent, plutôt que de rester dans les mains de ceux qui peuvent se payer les formations.
 
 Ce repo est dans le même esprit. Prenez ce qui vous est utile.
 
