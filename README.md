@@ -6,7 +6,7 @@
 
 ## Pierre Fortin — Anara
 
-Je suis sourceur. Pas développeur.
+Je suis Recruteur & Sourceur. Pas développeur.
 
 Mais j'ai compris assez tôt qu'un sourceur qui ne comprend pas ses outils finit par en être l'otage. Alors j'en construis. Pas pour remplacer la réflexion — pour la servir.
 
@@ -42,7 +42,7 @@ Ce repo est dans le même esprit. Prenez ce qui vous est utile.
 
 ## Pierre Fortin — Anara
 
-I'm a sourcer. Not a developer.
+I'm a recrtuier & sourcer. Not a developer.
 
 But I figured out early enough that a sourcer who doesn't understand their tools ends up being held hostage by them. So I build some. Not to replace thinking — to serve it.
 
